@@ -14,7 +14,7 @@ public class Main {
         //ReverseTheString.solution("Edabit");
 
         // Atbash Cipher: https://edabit.com/challenge/JmuM2cP5MvruRjr6c
-        AtbashCipher.solution("Hello world!");
+        AtbashCipher.solution("Hello World!");
 
 
     }
