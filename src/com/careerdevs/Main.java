@@ -11,10 +11,10 @@ public class Main {
         //PerfectSquarePatch.solution(3);
 
         // Reverse the String (with a catch): https://edabit.com/challenge/QdrLgb37ZZwYMKXwi
-        //ReverseTheString.solution("Edabit");
+        ReverseTheString.solution("Edabit");
 
         // Atbash Cipher: https://edabit.com/challenge/JmuM2cP5MvruRjr6c
-        AtbashCipher.solution("Hello World!");
+       // AtbashCipher.solution("Hello World!");
 
 
     }
